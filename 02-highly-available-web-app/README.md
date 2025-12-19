@@ -38,8 +38,8 @@ See file `user-data.sh`
 ## Screenshots
 ![Application Load Balancer overview](./screenshots/alb-console.png)
 ![Auto Scaling Group scaling out](./screenshots/asg-scaling.png)
-![Sticky sessions in action](./screenshots/stickysessions)
-![Connection Draining configured](./screenshots/draining)
+- 📁 [Sticky sessions in action](./screenshots/stickysessions)
+- 📁 [Connection Draining configured](./screenshots/draining)
 ![Target Group with healthy instances across AZs](./screenshots/target-group-healthy.png)
 ![Final architecture overview](./screenshots/architecture-overview.png)
 
