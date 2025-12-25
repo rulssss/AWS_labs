@@ -65,6 +65,16 @@ This lab implements managed relational databases on AWS, focusing on cost optimi
 - Standard MySQL client connectivity to AWS managed databases
 
 
+## Additional AWS Services & Topics Covered
+
+During the AWS Certified Solutions Architect Associate course, I also explored the following services and concepts. These are not full hands-on labs yet but demonstrate broader understanding of the AWS ecosystem:
+
+**Amazon ElastiCache** (Redis/Memcached)
+- Created a basic cache cluster
+- Configured in VPC with Security Groups
+- Understood key use cases: database caching (reduce load on RDS), session storage, rate limiting, andreal-time analytics
+- Ready for future integration (e.g., cache-aside pattern with the web application)
+
 
 
 
