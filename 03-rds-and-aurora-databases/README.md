@@ -57,8 +57,8 @@ This lab implements managed relational databases on AWS, focusing on cost optimi
 ![Successful connection and executed queries in MySQL Workbench](./screenshots/rds-connection-queries.png.png) 
 ![Aurora cluster showing writer and reader endpointsWhat](./screenshots/aurora-writer-and-reader-points.png) 
 
-## I LearnedFull 
-- RDS configuration options (instance class, networking, authentication, monitoring)
+## I Learned
+- Full RDS configuration options (instance class, networking, authentication, monitoring)
 - Creating and managing Read Replicas for read scaling
 - Aurora cluster benefits and endpoint routing (writer for modifications, reader for SELECTs)
 - When to use public vs private access
