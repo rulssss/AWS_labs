@@ -75,6 +75,12 @@ During the AWS Certified Solutions Architect Associate course, I also explored t
 - Understood key use cases: database caching (reduce load on RDS), session storage, rate limiting, andreal-time analytics
 - Ready for future integration (e.g., cache-aside pattern with the web application)
 
-
+**Amazon Route 53**
+- Fully studied DNS management, hosted zones, and record types (A, CNAME, Alias, MX, TXT)
+- Understood advanced routing policies: Simple, Weighted, Latency, Failover, Geolocation, Multi-Value Answer
+- Learned health checks and integration with ELB, S3, CloudFront
+- Observed live demos in the course (domain registration, record creation, alias to ALB, failover setup)
+- Ready for implementation once domain ownership is available
+- Key takeaway: Alias records vs CNAME for AWS resources, and how Route 53 enables high availability at DNS level
 
 
